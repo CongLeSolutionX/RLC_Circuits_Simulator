@@ -13,6 +13,10 @@ Copyright © 2025 Cong Le. All Rights Reserved.
 
 ---
 
+![Demo_RLC_Circuits_Simulator](./ASSETS/Demo_RLC_Circuits_Simulator.gif)
+
+---
+
 <div align="center">
 	
 ⚠️🏗️🚧🦺🧱🪵🪨🪚🛠️👷
