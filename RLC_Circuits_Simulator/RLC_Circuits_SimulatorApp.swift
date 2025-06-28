@@ -11,7 +11,7 @@ import SwiftUI
 struct RLC_Circuits_SimulatorApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            RLCCircuitView()
         }
     }
 }
